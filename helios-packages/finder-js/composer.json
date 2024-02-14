@@ -1,0 +1,10 @@
+{
+    "name": "helios-packages/finder-js",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\FinderJs\\": "src/"
+        }
+    },
+    "require": {}
+}

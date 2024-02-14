@@ -1,0 +1,15 @@
+{
+    "name": "helios-packages/pwa",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Pwa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChristianP",
+            "email": "1445466-poohspear@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}

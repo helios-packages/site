@@ -1,0 +1,15 @@
+{
+    "name": "helios-packages/otp",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Otp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChristianP",
+            "email": "1445466-poohspear@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}

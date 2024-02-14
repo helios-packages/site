@@ -1,0 +1,11 @@
+{
+    "name": "helios-packages/shaka",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Shaka\\": "src/"
+        }
+    },
+    "require": {}
+}

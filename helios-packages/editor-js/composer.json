@@ -1,0 +1,9 @@
+{
+    "name": "helios-packages/editor-js",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\EditorJs\\": "src/"
+        }
+    },
+    "require": {}
+}

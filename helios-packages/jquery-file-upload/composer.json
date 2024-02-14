@@ -1,0 +1,10 @@
+{
+    "name": "helios-packages/jquery-file-upload",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\JqueryFileUpload\\": "src/"
+        }
+    },
+    "require": {}
+}

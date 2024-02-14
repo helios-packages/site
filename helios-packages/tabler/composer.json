@@ -1,0 +1,10 @@
+{
+    "name": "helios-packages/tabler",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Tabler\\": "src/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,11 @@
+{
+    "name": "helios-packages/rainloop",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Rainloop\\": "src/"
+        }
+    },
+    "require": {}
+}

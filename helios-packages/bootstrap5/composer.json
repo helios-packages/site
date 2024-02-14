@@ -1,0 +1,17 @@
+{
+    "name": "helios-packages/bootstrap5",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Bootstrap5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChristianP",
+            "email": "1445466-poohspear@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}

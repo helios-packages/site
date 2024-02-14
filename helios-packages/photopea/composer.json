@@ -1,0 +1,11 @@
+{
+    "name": "helios-packages/photopea",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HeliosPackages\\Photopea\\": "src/"
+        }
+    },
+    "require": {}
+}
